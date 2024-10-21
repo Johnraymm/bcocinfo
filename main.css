@@ -1,0 +1,91 @@
+@font-face {
+    src:url(fonts/Oswald-Regular.ttf);
+    font-family: Oswald-Regular;
+}
+@font-face {
+    src:url(fonts/Roboto-Light.ttf);
+    font-family: Roboto-Light;
+}
+@font-face {
+    src: url(fonts/RobotoSlab-Regular.ttf);
+    font-family: RobotoSlab-Regular;
+}
+@font-face {
+    src: url(fonts/Arima-Medium.ttf);
+    font-family: Arima-Medium;
+}
+#h1bcoc{
+    border: black solid ;
+    border-radius: 100px;
+    font-family: Arima-Medium;
+    font-size:x-large;
+    padding: 10px;
+    text-align: center;
+    width: 60%;
+    margin-inline: auto;
+    background-color: hsl(39, 100%, 79%);
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#bv0{
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#bv1{
+    font-family: "courier new";
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    background-color: hsl(39, 53%, 65%) ;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+
+}
+#co1{
+    text-align: center;
+    font-family: oswald-regular;
+
+}
+#logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#codiv1{
+    border: solid black;
+    font-size:larger;
+    background-color: hsl(39, 100%, 79%);
+    border-radius: 40px;
+    width: 80%;
+    margin-inline: auto;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.gn1{
+    font-family: Robotoslab-regular;
+    text-align: center;
+
+}
+.gn2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#fblogo1{
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#bot1{
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
